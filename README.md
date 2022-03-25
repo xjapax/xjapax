@@ -30,4 +30,4 @@
     
 ![Snake animation](https://github.com/xjapax/xjapax/blob/output/github-contribution-grid-snake.svg)
     
-    <div/>
+    
