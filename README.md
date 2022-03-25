@@ -27,6 +27,7 @@
   <a href="https://instagram.com/vasconcelosjoaovitor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jvvjoaovitor2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-vasconcellos-15b703185" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-![Snake animation](https://github.com/xjapax/ajapax/blob/output/github-contribution-grid-snake.svg)
+    
+![Snake animation](https://github.com/xjapax/xjapax/blob/output/github-contribution-grid-snake.svg)
     
     <div/>
